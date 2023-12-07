@@ -1,0 +1,15 @@
+{
+  "name": "Knallcharge/PhpIsWritableWindows",
+  "description": "a replacement for PHP's is_writable to work with windows",
+  "keywords": [
+    "symfony",
+    "is_writable",
+    "windows"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Knallcharge"
+    }
+  ]
+}
