@@ -1,5 +1,5 @@
 {
-  "name": "Knallcharge/PhpIsWritableWindows",
+  "name": "knallcharge/php-is-writable-windows",
   "description": "a replacement for PHP's is_writable to work with windows",
   "keywords": [
     "symfony",

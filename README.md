@@ -1,4 +1,4 @@
-# PhpIsWritableWindows
+# php-is-writable-windows
 
 Replacement of PHP's is_writable function which does not work on Windows under certain conditions due to a PHP bug with Windows ACL (which is marked as "won't fix").
 
